@@ -1,0 +1,201 @@
+body{
+background: url("https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/blog/hero/vgd/VGD-S2-ANNOUNCEMENT-TOUT.jpg") black no-repeat fixed center; 
+background-size: cover;
+font-family:"Arial Narrow";
+overflow:auto;
+}
+.topnav a{
+border-radius:6px;
+color:white;
+display:block;
+float:left;
+font-size:22px;
+letter-spacing:3px;
+overflow:hidden;
+padding: 14px 16px;
+text-decoration:none;
+text-align:center;
+}
+.topnav a:hover{
+background-color: #FFFDD0;
+color: black;
+transition-duration: 0.4s;
+}
+#Play, #Sup, #Log{
+float:right;
+}
+#Play:link{
+background-color:#e1ad21;
+}
+.bttn{
+height: 30px;
+text-align: center;
+position: relative;
+}
+#b1{ 
+background-color: #36454F;
+color: white;
+display: inline-block;
+font-size: 28px;
+letter-spacing: 2px;
+margin: 558px -100px 100px 650px;
+padding: 20px 55px;
+text-decoration:none;
+}
+#b1:hover {
+ background-color: #FF0000;
+ color: black;
+ transition-duration: 0.4s;
+ transform: scale(1.2);
+}
+#p1{
+background-color:black;
+color: #E5E4E2;
+font-size:45px;
+letter-spacing:1px;
+margin: 490px -10px 100px -10px;
+padding:10px 50px 20px 120px;
+box-sizing: border-box;
+}
+#p2{
+background-color:black;
+color: #E5E4E2;
+font-size:25px;
+letter-spacing:1px;
+margin:-120px -10px 10px -10px;
+padding:10px 50px 20px 120px;
+box-sizing: border-box;
+}
+#bp1{
+height: 900px;
+width: 1522px;
+margin: -10px -10px -10px -10px;
+}
+#bp2{
+height: 600px;
+width: 1522px;
+margin: 0px -10px -10px -10px;
+}
+#bot1{
+background-color: #343434;
+color: white;
+font-size:45px;
+letter-spacing:1px;
+margin: -10px -10px 10px -10px;
+padding: 50px 910px 20px 190px;
+box-sizing: border-box;
+} 
+#bot2 {
+background-color: #343434;
+color: white;
+font-size:20px;
+letter-spacing:1px;
+margin: -20px -10px 10px -10px;
+padding:10px 860px 18px 190px;
+box-sizing: border-box;
+}
+#b2{
+border:outset 4px #F0EAD6;
+color: black;
+font-size: 24px;
+letter-spacing: 2px;
+margin: -12px -10px 10px 180px;
+padding: 5px 15px;
+text-decoration:none;
+}
+#bot3{
+background-color: #343434;
+color: white;
+font-size:45px;
+letter-spacing:1px;
+margin: -90px -10px 10px -10px;
+padding: 50px 900px 20px 160px;
+box-sizing: border-box;
+text-indent: 690px;
+}
+#bot4{
+background-color: #343434;
+color: white;
+font-size:20px;
+letter-spacing:1px;
+margin: -12px -10px 10px -10px;
+padding: 5px 150px 20px 850px;
+box-sizing: border-box;
+text-align:left;
+}
+#b3{
+
+border:outset 4px #F0EAD6;
+color: black;
+font-size: 24px;
+letter-spacing: 2px;
+margin: -12px -10px 10px 840px;
+padding: 5px 15px;
+text-decoration:none;
+}
+#bot5{
+background-color: #343434;
+color: white;
+font-size:45px;
+letter-spacing:1px;
+margin: -60px -10px 10px -10px;
+padding: 70px 910px 20px 190px;
+box-sizing: border-box;
+}
+#bot6{
+background-color: #343434;
+color: white;
+font-size:20px;
+letter-spacing:1px;
+margin: -10px -10px 10px -10px;
+padding:10px 860px 18px 190px;
+box-sizing: border-box;
+}
+#b4{
+border:outset 4px #F0EAD6;
+color: black;
+font-size: 24px;
+letter-spacing: 2px;
+margin: -12px -10px 10px 180px;
+padding: 5px 15px;
+text-decoration:none;
+}
+#bot7{
+background-color: #343434;
+color: white;
+font-size:45px;
+letter-spacing:1px;
+margin: -70px -10px 10px -10px;
+padding: 50px 900px 20px 160px;
+box-sizing: border-box;
+text-indent: 690px;
+}
+#bot8{
+background-color: #343434;
+color: white;
+font-size:20px;
+letter-spacing:1px;
+margin: -12px -10px -80px -10px;
+padding: 0px 150px 100px 850px;
+box-sizing: border-box;
+text-align:left;
+}
+#b5{
+border:outset 4px #F0EAD6;
+color: black;
+font-size: 24px;
+letter-spacing: 2px;
+margin: -40px 10px -10px 840px;
+padding: 5px 15px;
+text-decoration:none;
+}
+.bottom a:link{
+background-color: #B2BEB5;
+display: inline-block;
+}
+.bottom a:hover{
+background-color: #e1ad21;
+box-shadow: 0 12px 16px 0 black;
+color: black;
+transition-duration: 0.4s;
+}
