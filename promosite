@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Bares: Promotion Site </title>
+<link rel="stylesheet" type="text/css" href="bares_midlabexamstyle.css">
+</head>
+
+<body>
+
+<div class="topnav">
+ <a href="https://www.callofduty.com/blog"> News </a>
+ <a href="https://support.activision.com/"> Support </a>
+ <a href="https://my.callofduty.com/welcome"> Store </a>
+ <a id="Play" href="https://www.callofduty.com/vanguard"> Play Now </a>
+ <a id="Sup" href="https://profile.callofduty.com/cod/signup"> Sign Up </a>
+ <a id="Log" href="https://profile.callofduty.com/cod/login"> Login </a>
+</div>
+
+<div class="bttn">
+  <b><a id="b1" href="https://www.callofduty.com/vanguard/buy"> BUY NOW </a></b>
+</div>
+
+<p id="p1"> GET UP TO 1300CP BACK! </p>
+<p id="p2">Buy the <b>Season Two Battle Pass</b> and get back up to 1300 CP as you level up. <br> Use them to buy the next season’s Battle Pass so the action never stops.</p>
+
+
+<img id="bp1" src="https://bnetcmsus-a.akamaihd.net/cms/gallery/VYMBCFXUEOWL1647638296746.jpg" alt="codbp">
+<img id="bp2" src="https://gumlet.assettype.com/afkgaming%2F2021-07%2Ff69bf422-4763-4a06-a3ca-b7a2d102fc42%2FScreenshot_2021_07_30_20_27_02_054_com_garena_game_codm__1_.jpg?auto=format%2Ccompress&dpr=1.0&w=900" alt="codbp2">
+
+<div class="bottom">
+
+ <b><p id="bot1"> CAMPAIGN </p></b>
+ <p id="bot2"> The award-winning <i>Call of Duty®</i> series returns with <i>Call of Duty®: Vanguard</i>, in which players will experience influential battles of World War II as they fight for victory across the Eastern and Western Fronts of Europe, the Pacific, and North Africa.</p>
+ <b><a id="b2" href="https://www.callofduty.com/vanguard/campaign"> LEARN MORE </a></b>
+ <b><p id="bot3"> MULTIPLAYER </p></b>
+ <p id="bot4"> Create and cement your legacy as <i>Call of Duty’s</i> signature Multiplayer experience launches an all-out assault on all fronts. Witness the rise of the Special Forces as players drop into new locales with authentic World War II loadouts.</p>
+ <b><a id="b3" href="https://www.callofduty.com/vanguard/multiplayer"> LEARN MORE </a></b>
+ <b><p id="bot5"> ZOMBIES </p></b>
+ <p id="bot6"> Players will also be able to prove their mettle as they try to survive the relentless onslaught of the undead in a chilling new Zombies experience, developed by Treyarch Studios.</p>
+ <b><a id="b4" href="https://www.callofduty.com/vanguard/zombies"> LEARN MORE</a></b>
+ <b><p id="bot7"> WARZONE™ </p></b>
+ <p id="bot8"> <i>Call of Duty®: Vanguard</i> will usher in a new and unparalleled <i>Call of Duty®: Warzone™</i> integration post launch.</p></p>
+ <b><a id="b5" href="https://www.callofduty.com/warzone"> LEARN MORE </a></b>
+</div>
+
+</body>
+</html>
